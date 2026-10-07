@@ -95,4 +95,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn y Jupyter Notebook.
 
 ## Autoría
 
-Proyecto personal desarrollado como parte de mi formación en la Licenciatura en Inteligencia Artificial y Ciencia de Datos.
+Proyecto personal desarrollado por Leandro Mazzitelli.
